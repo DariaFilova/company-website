@@ -1,0 +1,24 @@
+.header {
+  height: 60px;
+  width: 100%;
+  background-color: rgb(36, 36, 37);
+
+  &__nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    line-height: 60px;
+    a {
+      font-size: 18px;
+      font-weight: 600;
+      color: rgb(241, 241, 241);
+      text-decoration: none;
+    }
+    a.current {
+      color: rgb(82, 154, 221);
+    }
+  }
+
+
+}
