@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/company-website/static/css/main.a19f8443.css",
+    "main.js": "/company-website/static/js/main.38e09b73.js",
+    "static/media/promo_background.jpg": "/company-website/static/media/promo_background.3a06a45a68c2f785828b.jpg",
+    "index.html": "/company-website/index.html",
+    "main.a19f8443.css.map": "/company-website/static/css/main.a19f8443.css.map",
+    "main.38e09b73.js.map": "/company-website/static/js/main.38e09b73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a19f8443.css",
+    "static/js/main.38e09b73.js"
+  ]
+}
